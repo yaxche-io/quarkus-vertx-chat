@@ -1,4 +1,7 @@
 # quarkus-vertx-chat
+
+Updating this for latest Quarkus + Vertx integration libraries using Mutiny see [Continuum - Quarkus](https://quarkus.io/vision/continuum)
+
 A rudimentary messaging application showcasing Quarkus, Vert.x, Reactive Streams and server-sent events (SSE).
 
 For some more backround be sure to read the associated [article](https://quad.team/blog/messaging-with-quarkus-and-vertx).
